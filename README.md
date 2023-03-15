@@ -1,15 +1,15 @@
 <-- CRUD API with VUE.JS,MONGODB,EXPRESS.JS -->
 
-- [x] Create a cluster in MongoDB
+- [x] Created class in MongoDB
 
-- [x] Install dependencies for backend
+- [x] Installed dependencies for backend
 
-- [x] Create an express app,connect to db
+- [x] Created an express app and connected to db
 
-- [x] Create a mongoose model
+- [x] Created a mongoose model
 
-- [x] Set routes,test with Postman
+- [x] I set the routes and test with the Postman
 
-- [x] Create a vue app,install bulma,create a Navbar component
+- [x] Created the application, install bootstrap 
 
 - [x]  Home view
